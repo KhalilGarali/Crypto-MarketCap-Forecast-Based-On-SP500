@@ -1,0 +1,12 @@
+# Ignore Python packages
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Ignore virtual environment
+venv/
+env/
